@@ -2,4 +2,4 @@
 
 |Course Name| Lecturer | Time |
 |:-----------|:---------|:-----|
-|[OR 645 Stochastic Process](Graduate-Course-Notes/file/stochatic-process.md)| [John Shortle](http://mason.gmu.edu/~jshortle/)| 2014 Fall|
+|[OR 645 Stochastic Process](./file/Graduate-Course-Notes/file/stochatic-process.md)| [John Shortle](http://mason.gmu.edu/~jshortle/)| 2014 Fall|
