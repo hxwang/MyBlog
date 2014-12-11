@@ -1,5 +1,7 @@
 ## Stochastic Process
 
+- [Lecturer](http://mason.gmu.edu/~jshortle/)
+
 |Contents| Date|
 |:-------|:----|
 |[Exponential Distribution and Properties](http://hwang14.blogspot.com/2014/12/exponential-distribution-and-properties.html)| 12/10/2014|
