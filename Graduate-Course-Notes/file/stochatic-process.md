@@ -10,6 +10,7 @@
 |[Lec-2b:The Poisson Process](http://hwang14.blogspot.com/2014/12/the-poisson-process_10.html)| 12/11/2014|
 |[Lec-3a:Non-Homogeneous Poisson Process (NPHH)](http://hwang14.blogspot.com/2014/12/poisson-process-generalizations-and.html)|12/11/2014|
 |[Lec-3b:Compound Poisson Process (CPP) ](http://hwang14.blogspot.com/2014/12/compound-poisson-process-cpp.html)| 12/11/2014|
+|[Lec-3c:Splitting a Poisson Process: M/G/infty queue ](http://hwang14.blogspot.com/2014/12/splitting-poisson-process-mginfty-queue.html)
 |[Regenerative Process](http://hwang14.blogspot.com/2014/12/renewal-process.html)| 12/09/2014|
 |[Alternating Renewal Process](http://hwang14.blogspot.com/2014/12/alternating-renewal-process.html)| 12/09/2014|
 |[Excess Distribution of Renewal Process](http://hwang14.blogspot.com/2014/12/excess-distribution-of-renewal-process.html)| 12/09/2014|
