@@ -8,6 +8,7 @@
 |[Lec-1b:Compute Expectation by Condition](http://hwang14.blogspot.com/2014/12/computing-expectation-by-conditioning.html)| 12/10/2014|
 |[Lec-2a:The Poisson Distribution](http://hwang14.blogspot.com/2014/12/the-poisson-process.html)| 12/10/2014|
 |[Lec-2b:The Poisson Process](http://hwang14.blogspot.com/2014/12/the-poisson-process_10.html)| 12/11/2014|
+|[Lec-3a:Non-Homogeneous Poisson Process (NPHH)](http://hwang14.blogspot.com/2014/12/poisson-process-generalizations-and.html)|12/11/2014|
 |[Lec-3b:Compound Poisson Process (CPP) ](http://hwang14.blogspot.com/2014/12/compound-poisson-process-cpp.html)| 12/11/2014|
 |[Regenerative Process](http://hwang14.blogspot.com/2014/12/renewal-process.html)| 12/09/2014|
 |[Alternating Renewal Process](http://hwang14.blogspot.com/2014/12/alternating-renewal-process.html)| 12/09/2014|
