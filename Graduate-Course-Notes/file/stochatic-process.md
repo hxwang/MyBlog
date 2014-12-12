@@ -21,8 +21,8 @@
 |[Lec-9: Renewal-Reward Process](http://hwang14.blogspot.com/2014/12/renewal-reward-process.html)| 12/11/2014|
 |[Lec-10a: Average Age of Renewal Process ](http://hwang14.blogspot.com/2014/12/average-age-of-renewal-process.html)|12/11/2014|
 |[Lec-10b: Regenerative Process](http://hwang14.blogspot.com/2014/12/renewal-process.html)| 12/09/2014|
-|[Alternating Renewal Process](http://hwang14.blogspot.com/2014/12/alternating-renewal-process.html)| 12/09/2014|
-|[Excess Distribution of Renewal Process](http://hwang14.blogspot.com/2014/12/excess-distribution-of-renewal-process.html)| 12/09/2014|
+|[Lec-10c: Alternating Renewal Process](http://hwang14.blogspot.com/2014/12/alternating-renewal-process.html)| 12/09/2014|
+|[Lec-10d: Excess Distribution of Renewal Process](http://hwang14.blogspot.com/2014/12/excess-distribution-of-renewal-process.html)| 12/09/2014|
 |[Brownian Motion](http://hwang14.blogspot.com/2014/11/stochastic-process-brownian-motion.html)| 11/25/2014|
 |[Geometric Brownian Motion](http://hwang14.blogspot.com/2014/11/geometric-brownian-motion.html)| 11/26/2014 |
 |[Arbitrage](http://hwang14.blogspot.com/2014/11/stochastic-process-arbitrage.html)| 11/26/2014|
