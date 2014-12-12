@@ -16,7 +16,7 @@
 |[Lec-5: Markov Chain - Classification of States](http://hwang14.blogspot.com/2014/12/markov-chain-classifications-of-states.html)| 12/11/2014|
 |[Lec-6a: Tandem Queue](http://hwang14.blogspot.com/2014/12/markov-chain-branching-processes.html)| 12/11/2014|
 |[Lec-6b: Markov Chain -- Branching Process](http://hwang14.blogspot.com/2014/12/markov-chain-branching-process.html)| 12/11/2014|
-|[Lec-7: Markov Chain -- Birth-Deadth Processes](http://hwang14.blogspot.com/2014/12/markov-chain-birth-death-processes.html)| 12/11/2014|
+|[Lec-7a: Markov Chain -- Birth-Deadth Processes](http://hwang14.blogspot.com/2014/12/markov-chain-birth-death-processes.html)| 12/11/2014|
 |[Regenerative Process](http://hwang14.blogspot.com/2014/12/renewal-process.html)| 12/09/2014|
 |[Alternating Renewal Process](http://hwang14.blogspot.com/2014/12/alternating-renewal-process.html)| 12/09/2014|
 |[Excess Distribution of Renewal Process](http://hwang14.blogspot.com/2014/12/excess-distribution-of-renewal-process.html)| 12/09/2014|
