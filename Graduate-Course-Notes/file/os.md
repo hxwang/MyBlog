@@ -3,4 +3,4 @@
 ### Course Notes
 |Name| Date|
 |:----|:----|
-|[Introduction]()| 12/21/2014|
+|[Introduction](http://hwang14.blogspot.com/2014/12/introduction-to-operating-systems.html)| 12/21/2014|
