@@ -8,7 +8,7 @@
 |[Introduction to Operating Systems](http://hwang14.blogspot.com/2014/12/introduction-to-operating-systems.html)| 12/21/2014|
 |[Instruction Execution](http://hwang14.blogspot.com/2014/12/instruction-execution.html)| 12/21/2014|
 |[Operating System Design Approaches](http://hwang14.blogspot.com/2014/12/operating-system-design-approaches.html)|12/21/2014|
-|[System Security](http://hwang14.blogspot.com/2014/12/system-security.html)| 12/21/2014|
+
 
 
 ### Process
@@ -25,3 +25,10 @@
 |[Storage Management](http://hwang14.blogspot.com/2014/12/storage-management.html)| 12/21/2014|
 |[File Management](http://hwang14.blogspot.com/2014/12/file-management.html)| 12/21/2014|
 |[I/O System Management](http://hwang14.blogspot.com/2014/12/io-system-management.html)| 12/21/2014|
+
+
+### Extensions
+|Contents| Date|
+|:----|:----|
+|[System Security](http://hwang14.blogspot.com/2014/12/system-security.html)| 12/21/2014|
+|[Virtual Machines](http://hwang14.blogspot.com/2014/12/virtual-machine.html)| 12/21/2014|
