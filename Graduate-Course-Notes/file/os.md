@@ -1,6 +1,6 @@
 ## Operating Systems
 
-- [Lecture](http://cs.gmu.edu/~simon/)
+- [Lecturer](http://cs.gmu.edu/~simon/)
 
 ### Course Notes
 |Contents| Date|
