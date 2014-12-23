@@ -1,5 +1,8 @@
 ## My Habit Archive
 
-＃＃＃　Ｒｅａｄｉｎｇ
+### Reading
+- [GoodReads](https://www.goodreads.com/user/show/38197587-huangxinwang)
+
+
 
 
