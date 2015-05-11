@@ -4,3 +4,4 @@
 |:-----------|:-----|
 |[OR Stochastic Process](./file/stochatic-process.md)| 2014 Fall|
 |[Operating Systems](./file/os.md)| 2012 Fall|
+|[Data Mining](./file/dm.md)|2015 Spring|
